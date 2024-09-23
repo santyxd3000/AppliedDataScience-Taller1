@@ -1,5 +1,7 @@
 # TALLER 1 - CIENCIA DE DATOS APLICADA
 
+Santiago Iván Pardo Morales - 202013025 - s.pardom@uniandes.edu.co
+
 El objetivo de este taller es realizar un análisis exploratorio de datos utilizando herramientas de visualización y técnicas estadísticas que permita descubrir insights y permita concluir acerca de decisiones de negocio relacionadas con inversionistas de propiedades de Airbnb.
 
 ## CONTEXTO DE NEGOCIO
