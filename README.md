@@ -26,4 +26,10 @@ Por otro lado, se utilizará un análisis geoespacial como herramienta de visual
 
 (Este análisis se encuentra en la presentación)
 
+Teniendo en cuenta la ubicación,  los sectores de Bijlmer-Centrum, Osdorp y Gaasperdam - Driemond representan sectores donde hay un alto porcentaje de ganancia. No obstante, se debe tener en cuenta que aquí hay una alta competencia con negocios ya establecidos.
+
+Con esto en mente, hay otra alternativa, la cual es ofrecer en lugares con poca recurrencia, pero ofreciendo servicios únicos enfocados al entretenimiento, al ser una ciudad pequeña, las facilidades de transporte a sectores turísticos no influye mucho a la hora de escoger este tipo de establecimientos.
+
+Por último, es importante contratar a un servicio de limpieza fijo, de modo que al finalizar cada reserva, se dedique un tiempo prudente a realizar la limpieza para la siguiente reserva, esto es muy importante ya que puede influir significativamente en la calificación, en una ciudad la cual tiene un historial de muy buenas calificaciones.
+
 
